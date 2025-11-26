@@ -161,11 +161,11 @@ text_configs_dict = {
         {"text":"可","position":(1042,117),"font_color":(255, 255, 255),"font_size":147},
         {"text":"可","position":(1186,175),"font_color":(255, 255, 255),"font_size":92}
     ],
-    "alisa": [  # 紫藤亚里沙
-        {"text":"紫","position":(759,73),"font_color":(235,75,60),"font_size":186},
-        {"text":"藤","position":(945,175),"font_color":(255, 255, 255),"font_size":92},
-        {"text":"亚","position":(1042,117),"font_color":(255, 255, 255),"font_size":147},
-        {"text":"里沙","position":(1186,175),"font_color":(255, 255, 255),"font_size":92}
+    "alisa": [  # 派.梅.
+        {"text":"派","position":(759,73),"font_color":(235,75,60),"font_size":186},
+        {"text":".","position":(945,175),"font_color":(255, 255, 255),"font_size":92},
+        {"text":"莓","position":(1042,117),"font_color":(255, 255, 255),"font_size":147},
+        {"text":".","position":(1186,175),"font_color":(255, 255, 255),"font_size":92}
     ],
     "reia": [  # 莲见蕾雅
         {"text":"莲","position":(759,73),"font_color":(253,177,88),"font_size":186},
@@ -594,3 +594,4 @@ keyboard.add_hotkey('ctrl+0', show_current_character)
 
 # 保持程序运行
 keyboard.wait("Esc")
+
